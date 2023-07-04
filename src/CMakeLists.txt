@@ -1,0 +1,1 @@
+set(LIB_NAME MyStd)
