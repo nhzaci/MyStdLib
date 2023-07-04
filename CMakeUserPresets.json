@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/Users/zack/Documents/MyProject/Cpp/MyStdLib/build/CMakePresets.json"
+    ]
+}
